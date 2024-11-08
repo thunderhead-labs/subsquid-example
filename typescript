@@ -1,0 +1,511 @@
+Script started on Wed Nov  6 16:44:53 2024
+ls
+
+
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro sthype-testnet % [K[?2004hlls[?2004l
+LICENSE			abi			commands.json		docker-compose.yml	node_modules		package.json		schema.graphql		src			typescript
+README.md		assets			db			lib			package-lock.json	renovate.json		squid.yaml		tsconfig.json
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro sthype-testnet % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro sthype-testnet % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro sthype-testnet % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             
+[0m[27m[24m[Jtom@Toms-MacBook-Pro sthype-testnet % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro sthype-testnet % [K[?2004h.. ./   lls[?2004l
+LICENSE			abi			commands.json		docker-compose.yml	node_modules		package.json		schema.graphql		src			typescript
+README.md		assets			db			lib			package-lock.json	renovate.json		squid.yaml		tsconfig.json
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro sthype-testnet % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro sthype-testnet % [K[?2004hccd scrip     c  [?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro sthype-testnet % [K[?2004hccd [7m/Users/tom/.ssh/[27m[16D[27m/[27mU[27ms[27me[27mr[27ms[27m/[27mt[27mo[27mm[27m/[27m.[27ms[27ms[27mh[27m/[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro .ssh % [K[?2004hlls[?2004l
+authorized_keys	id_data_api	id_ed25519	id_rsa		id_rsa_old	id_th_ssh	id_zigg_th	known_hosts	zigg_curon
+config		id_data_api.pub	id_ed25519.pub	id_rsa.pub	id_rsa_old.pub	id_th_ssh.pub	id_zigg_th.pub	known_hosts.old	zigg_curon.pub
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro .ssh % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro .ssh % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro .ssh % [K[?2004h[7mssh-keygen -t ed25519 -C "tom+2@thunderhead.xyz"[27m[48D[27ms[27ms[27mh[27m-[27mk[27me[27my[27mg[27me[27mn[27m [27m-[27mt[27m [27me[27md[27m2[27m5[27m5[27m1[27m9[27m [27m-[27mC[27m [27m"[27mt[27mo[27mm[27m+[27m2[27m@[27mt[27mh[27mu[27mn[27md[27me[27mr[27mh[27me[27ma[27md[27m.[27mx[27my[27mz[27m"[?2004l
+Generating public/private ed25519 key pair.
+Enter file in which to save the key (/Users/tom/.ssh/id_ed25519): -d  id_thunderead    rhead_ ^[[D^[[D^[[D^[[D^[[D^[[D^[[D                             d^[[D^[[D^[[D^[[D^[[D^[[D^[[D^[[D                                ^[[D^[[D                  om_tuy  hundere head
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in id_tom_thunderhead
+Your public key has been saved in id_tom_thunderhead.pub
+The key fingerprint is:
+SHA256:FYomL+WpJ+KwBewi5DdP5ssXEhVVigv3/g2qRApxuuM tom+2@thunderhead.xyz
+The key's randomart image is:
++--[ED25519 256]--+
+|       .o.o.     |
+|       o....     |
+|   ..o=o...      |
+|.   +Bo.o.       |
+|.o o. =oS.       |
+|+.  o+o..        |
+|+oo=o+o... .     |
+|o=o.Oo..  o o    |
+|. .E =o... . .   |
++----[SHA256]-----+
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro .ssh % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro .ssh % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro .ssh % [K[?2004hlls [?2004l
+authorized_keys		id_data_api.pub		id_rsa			id_rsa_old.pub		id_tom_thunderhead	id_zigg_th.pub		zigg_curon
+config			id_ed25519		id_rsa.pub		id_th_ssh		id_tom_thunderhead.pub	known_hosts		zigg_curon.pub
+id_data_api		id_ed25519.pub		id_rsa_old		id_th_ssh.pub		id_zigg_th		known_hosts.old
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro .ssh % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro .ssh % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro .ssh % [K[?2004h[7mpbcopy < ~/.ssh/id_ed25519.pub[27m
+[K[A[28C[27mp[27mb[27mc[27mo[27mp[27my[27m [27m<[27m [27m~[27m/[27m.[27ms[27ms[27mh[27m/[27mi[27md[27m_[27me[27md[27m2[27m5[27m5[27m1[27m9[27m.[27mp[27mu[27mb[1B[K[K[A[58C           tom_thunderhead.pub[1m [0m[0m [?2004l[1B[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro .ssh % [K[?2004h[7mssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPB1R2UnIcnO41ejEsSA5brzjPhrd3HKyfld2ez3A8cF tom+2@thunderhead.xyz[27m
+[K[?2004l[K
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro .ssh % [K[?2004hccat [7mid_tom_thunderhead[27m[18D[27mi[27md[27m_[27mt[27mo[27mm[27m_[27mt[27mh[27mu[27mn[27md[27me[27mr[27mh[27me[27ma[27md[?2004l
+-----BEGIN OPENSSH PRIVATE KEY-----
+b3BlbnNzaC1rZXktdjEAAAAACmFlczI1Ni1jdHIAAAAGYmNyeXB0AAAAGAAAABA7QpLOZm
+aVOXBzyRfqUEr9AAAAEAAAAAEAAAAzAAAAC3NzaC1lZDI1NTE5AAAAIPB1R2UnIcnO41ej
+EsSA5brzjPhrd3HKyfld2ez3A8cFAAAAoJXRVy8hLUkRtAFhU3MgiNFg+qqIYKENwlAX2E
+O+y+MKyCOzPOkTBU60SGdnre7AdGc636LNIGuPdaIOzKRowt0zVFfqH48mvB0E+rbYcZrt
+hPoVihlwtrx6k+1379kUX4ng+YqCcLB2wQUPA8Zrvrv/Gj3Ih1ojGgfrFy1Z79FXqLdEDZ
+BYQnsTcTMGLjX+0CM3xZdJFMHuSC/pEp6uBhs=
+-----END OPENSSH PRIVATE KEY-----
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro .ssh % [K[?2004hlls -l[?2004l
+total 184
+-rw-------  1 tom  staff  1311  1 Nov  2023 authorized_keys
+-rw-------  1 tom  staff   684  5 Mar  2024 config
+-rw-------  1 tom  staff  2655 11 Oct  2023 id_data_api
+-rw-------  1 tom  staff   566 11 Oct  2023 id_data_api.pub
+-rw-------  1 tom  staff   464  1 Mar  2024 id_ed25519
+-rw-------  1 tom  staff   101  1 Mar  2024 id_ed25519.pub
+-rw-------  1 tom  staff  2655 15 Jan  2024 id_rsa
+-rw-------  1 tom  staff   566 15 Jan  2024 id_rsa.pub
+-rw-------  1 tom  staff  2655 16 Oct  2023 id_rsa_old
+-rw-------  1 tom  staff   566 16 Oct  2023 id_rsa_old.pub
+-rw-------  1 tom  staff  3434 19 Jul  2023 id_th_ssh
+-rw-------  1 tom  staff   745 19 Jul  2023 id_th_ssh.pub
+-rw-------  1 tom  staff   464  7 Nov 10:27 id_tom_thunderhead
+-rw-r--r--  1 tom  staff   103  7 Nov 10:27 id_tom_thunderhead.pub
+-rw-------  1 tom  staff   464 16 Jul  2023 id_zigg_th
+-rw-------  1 tom  staff   101 16 Jul  2023 id_zigg_th.pub
+-rw-------  1 tom  staff  8468 19 Sep 10:47 known_hosts
+-rw-------  1 tom  staff  7722 19 Sep 10:47 known_hosts.old
+-rw-------  1 tom  staff  2655 31 Aug  2023 zigg_curon
+-rw-------  1 tom  staff   575 31 Aug  2023 zigg_curon.pub
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro .ssh % [K[?2004hppwd[?2004l
+/Users/tom/.ssh
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro .ssh % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro .ssh % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro .ssh % [K[?2004h'[?2004l
+[0m[27m[24m[Jquote> [K[?2004h[?2004l
+[0m[27m[24m[Jquote> [K[?2004hccle c  [?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro .ssh % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro .ssh % [K[?2004hcclear[?2004l
+[H[2J[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro .ssh % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro .ssh % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro .ssh % [K[?2004hccd /[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro / % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             
+[0m[27m[24m[Jtom@Toms-MacBook-Pro / % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro / % [K[?2004hcc;ea  c  cclear[?2004l
+[H[2J[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro / % [K[?2004hccd /
+[JApplications/  System/        Volumes/       cores/         etc@           opt/           sbin/          usr/           
+Library/       Users/         bin/           dev/           home@          private/       tmp@           var@           [A[A[0m[27m[24m[25Ccd /[KUsers[1m/[0m[0m/tom[1m/[0m[0m/workspace[1m/[0m[0m/hyp
+[J[A[52Ceer  rliquid[?2004l
+[J[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro hyperliquid % [K[?2004hlls[?2004l
+blob-dark.gif		data-api		hyperliquid-python-sdk	staked-hype-banner.png	staked-sqd		stflip_120x120.png	stflip_120x120.svg	twitter
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro hyperliquid % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro hyperliquid % [K[?2004hccd staked-sqd[1m/[0m[0m      -h       c  ccle c  cclear[?2004l
+[H[2J[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             
+[0m[27m[24m[Jtom@Toms-MacBook-Pro hyperliquid % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro hyperliquid % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro hyperliquid % [K[?2004hlls[?2004l
+blob-dark.gif		data-api		hyperliquid-python-sdk	staked-hype-banner.png	staked-sqd		stflip_120x120.png	stflip_120x120.svg	twitter
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro hyperliquid % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro hyperliquid % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro hyperliquid % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro hyperliquid % [K[?2004hppwd[?2004l
+/Users/tom/workspace/hyperliquid
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro hyperliquid % [K[?2004hccd ../thunderhead[1m/[0m[0m/y hyperliquid[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro hyperliquid % [K[?2004hlls[?2004l
+data-api		integration		stHYPE-contracts	sthype-contracts-main	subgraph		subsquid
+hl-testnet-spot-perps	stHYPE			staked-hype		sthype-subgraph		subgraph-1
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro hyperliquid % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro hyperliquid % [K[?2004hccd h staked-g hype[1m/[0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro staked-hype % [K[?2004hcclear[?2004l
+[H[2J[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro staked-hype % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             
+[0m[27m[24m[Jtom@Toms-MacBook-Pro staked-hype % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             l[0m[27m[24m[Jtom@Toms-MacBook-Pro staked-hype % [K[?2004hlls[?2004l
+README.md		certificates		contexts		next-env.d.ts		package-lock.json	scripts			services		styles			utils
+abis			components		contracts		next.config.js		package.json		sentry.client.config.ts	site.webmanifest	tsconfig-cli.json	vercel.json
+app			config			hooks			node_modules		public			sentry.edge.config.ts	state			tsconfig.json
+assets			constants		libs			old_pages		react-app-env.d.ts	sentry.server.config.ts	store			types
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro staked-hype % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro staked-hype % [K[?2004hcclear[?2004l
+[H[2J[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro staked-hype % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro staked-hype % [K[?2004hlls -l[?2004l
+total 2104
+-rw-r--r--     1 tom  staff     1583 10 Oct 21:51 README.md
+drwxr-xr-x    11 tom  staff      352 15 Oct 18:41 abis
+drwxr-xr-x    10 tom  staff      320  5 Nov 12:37 app
+drwxr-xr-x     5 tom  staff      160 10 Oct 21:50 assets
+drwxr-xr-x     4 tom  staff      128 13 Oct 13:50 certificates
+drwxr-xr-x    14 tom  staff      448  6 Nov 10:16 components
+drwxr-xr-x     3 tom  staff       96 10 Oct 21:50 config
+drwxr-xr-x     7 tom  staff      224 10 Oct 21:50 constants
+drwxr-xr-x     3 tom  staff       96 30 Oct 06:28 contexts
+drwxr-xr-x     3 tom  staff       96 10 Oct 21:50 contracts
+drwxr-xr-x    26 tom  staff      832 22 Oct 21:00 hooks
+drwxr-xr-x     3 tom  staff       96 10 Oct 21:50 libs
+-rw-r--r--     1 tom  staff      228 14 Oct 14:37 next-env.d.ts
+-rw-r--r--     1 tom  staff     1063 14 Oct 14:37 next.config.js
+drwxr-xr-x  1116 tom  staff    35712 29 Oct 10:21 node_modules
+drwxr-xr-x    14 tom  staff      448 29 Oct 10:08 old_pages
+-rw-r--r--     1 tom  staff  1020629 29 Oct 10:21 package-lock.json
+-rw-r--r--     1 tom  staff     4122  5 Nov 12:58 package.json
+drwxr-xr-x     6 tom  staff      192 15 Oct 22:46 public
+-rw-r--r--     1 tom  staff      303 10 Oct 21:51 react-app-env.d.ts
+drwxr-xr-x     5 tom  staff      160 10 Oct 21:51 scripts
+-rw-r--r--     1 tom  staff     1066 10 Oct 21:51 sentry.client.config.ts
+-rw-r--r--     1 tom  staff      731 10 Oct 21:51 sentry.edge.config.ts
+-rw-r--r--     1 tom  staff      576 10 Oct 21:51 sentry.server.config.ts
+drwxr-xr-x     4 tom  staff      128 10 Oct 21:51 services
+-rw-rw-r--     1 tom  staff      436 15 Oct 21:44 site.webmanifest
+drwxr-xr-x     3 tom  staff       96 14 Oct 14:32 state
+drwxr-xr-x     5 tom  staff      160 10 Oct 21:51 store
+drwxr-xr-x    10 tom  staff      320 10 Oct 21:51 styles
+-rw-r--r--     1 tom  staff      664 10 Oct 22:59 tsconfig-cli.json
+-rw-r--r--     1 tom  staff      951 14 Oct 14:37 tsconfig.json
+drwxr-xr-x     8 tom  staff      256 10 Oct 21:51 types
+drwxr-xr-x    31 tom  staff      992 10 Oct 21:51 utils
+-rw-r--r--     1 tom  staff       51 10 Oct 21:51 vercel.json
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro staked-hype % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro staked-hype % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro staked-hype % [K[?2004hccd scripts[1m/[0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro scripts % [K[?2004hcclearc [?2004l
+[H[2J[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             l[0m[27m[24m[Jtom@Toms-MacBook-Pro scripts % [K[?2004hlls[?2004l
+foundry		tenderly	test.js
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro scripts % [K[?2004hccd foundry[1m/[0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004hcclear[?2004l
+[H[2J[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004hlls[?2004l
+call.sh		rebase.sh	vesting-lock.sh
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h.. r
+[Jracoon*                 read*                   redis-check-rdb@        reset@                  rmic*                   rpcbind*                ruff*                   rustdoc*                rwbytype.d*
+rails*                  readlink*               redis-cli@              resolveLinks*           rmid*                   rpcgen*                 runcon@                 rustfmt*                rwsnoop*
+rake*                   realpath*               redis-sentinel@         rev*                    rmiregistry*            rpcinfo*                rust-analyzer*          rustup*                 
+ranlib*                 reboot*                 redis-server@           ri*                     rotatelogs*             rs*                     rust-gdb*               rvictl*                 
+rarpd*                  recode-sr-latin@        renice*                 rls*                    route*                  rsync*                  rust-gdbgui*            rview@                  
+rdjpgcom@               redis-benchmark@        repairHomePermissions*  rm*                     rpc.lockd*              rtadvd*                 rust-lldb*              rvim@                   
+rdoc*                   redis-check-aof@        repquota*               rmdir*                  rpc.statd*              ruby*                   rustc*                  rwbypid.d*              [7A[0m[27m[24m[31C. r[K  [?2004l
+[J[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004hcclear[?2004l
+[H[2J[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h.. ./r rebase.sh[1m [0m[0m [?2004l
+Checking total supply before rebase...
+Error: 
+server returned an error response: error code 3: execution reverted
+Total supply before rebase: 
+Calling rebase function...
+Checking total supply after rebase...
+Error: 
+server returned an error response: error code 3: execution reverted
+Total supply after rebase: 
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h. ./rebase.sh[?2004l
+Checking total supply before rebase...
+Total supply before rebase: 0x0000000000000000000000000000000000000000000000014e746738e98677a0
+Calling rebase function...
+Checking total supply after rebase...
+Total supply after rebase: 0x0000000000000000000000000000000000000000000000014e746738e98677a0
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h. ./rebase.sh[?2004l
+Checking total supply before rebase...
+./rebase.sh:12: bad substitution
+Total supply before rebase: 
+Calling rebase function...
+Checking total supply after rebase...
+./rebase.sh:23: bad substitution
+Total supply after rebase: 
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h. ./rebase.sh[?2004l
+Checking total supply before rebase...
+Total supply before rebase: 17368813385597429313535647751303186177990497699846084605918878601196\
+97044699040
+Calling rebase function...
+Checking total supply after rebase...
+Total supply after rebase: 17368813385597429313535647751303186177990497699846084605918878601196\
+97044699040
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h. ./rebase.sh[?2004l
+Checking total supply before rebase...
+Total supply before rebase: 1736881338559742931353564775130318617799049769984608460591887.860119\
+697044699040
+Calling rebase function...
+Checking total supply after rebase...
+Total supply after rebase: 1736881338559742931353564775130318617799049769984608460591887.860119\
+697044699040
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h. ./rebase.sh[?2004l
+Checking total supply before rebase...
+Total supply before rebase: 1736881338559742931353564775130318617799049769984608460591887.860119\
+697044699040
+Calling rebase function...
+Checking total supply after rebase...
+Total supply after rebase: 1736881338559742931353564775130318617799049769984608460591887.860119\
+697044699040
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h. ./rebase.sh[?2004l
+Checking total supply before rebase...
+Total supply before rebase: 0x0000000000000000000000000000000000000000000000014e746738e98677a0
+Calling rebase function...
+Checking total supply after rebase...
+Total supply after rebase: 0x0000000000000000000000000000000000000000000000014e746738e98677a0
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h . ./rebase.sh[?2004l
+Checking total supply before rebase...
+Total supply before rebase: 5.653256926390548384 ETH
+Calling rebase function...
+Checking total supply after rebase...
+Total supply after rebase: 5.653256926390548384 ETH
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h. ./rebase.sh[?2004l
+hex_to_ether:1: number truncated after 17 digits: 26079500340162749410492
+Balance of Zigg: 6.951675474713388873 ETH
+Checking total supply before rebase...
+Total supply before rebase: 5.653256926390548384 ETH
+Calling rebase function...
+Checking total supply after rebase...
+Total supply after rebase: 5.653256926390548384 ETH
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h. ./rebase.sh[?2004l
+[1m[31merror:[0m the following required arguments were not provided:
+  [32m<WHO>[0m
+
+[1m[4mUsage:[0m [1mcast balance[0m [1m--rpc-url[0m <URL> <WHO>
+
+For more information, try '[1m--help[0m'.
+Balance of sender before rebase: 
+hex_to_ether:1: number truncated after 17 digits: 26079500340162749410492
+Balance of Zigg before rebase: 6.951675474713388873 ETH
+Checking total supply before rebase...
+^C[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h. ./rebase.sh[?2004l
+[1m[31merror:[0m the following required arguments were not provided:
+  [32m<WHO>[0m
+
+[1m[4mUsage:[0m [1mcast balance[0m [1m--rpc-url[0m <URL> <WHO>
+
+For more information, try '[1m--help[0m'.
+Balance of sender before rebase: 
+hex_to_ether:1: number truncated after 16 digits: 26079500340162749410492
+Balance of Zigg before rebase: -2.695888545592469430 ETH
+Checking total supply before rebase...
+^C[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h. ./rebase.sh[?2004l
+Balance of sender before rebase: 26079500340162749410492
+hex_to_ether:1: number truncated after 17 digits: 26079500340162749410492
+Balance of Zigg before rebase: 6.951675474713388873 ETH
+Checking total supply before rebase...
+^C[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h. ./rebase.sh[?2004l
+hex_to_ether:1: number truncated after 17 digits: 26079500340162749410492
+Balance of Zigg before rebase: 6.951675474713388873 ETH
+[1m[31merror:[0m the following required arguments were not provided:
+  [32m<WHO>[0m
+
+[1m[4mUsage:[0m [1mcast balance[0m [1m--rpc-url[0m <URL> <WHO>
+
+For more information, try '[1m--help[0m'.
+Balance of sender before rebase: 
+Checking total supply before rebase...
+Total supply before rebase: 5.653256926390548384 ETH
+Calling rebase function...
+Checking total supply after rebase...
+^C[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h. ./rebase.sh[13D             [13Dcclear[?2004l
+[H[2J[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004hclear. ./rebase.sh[?2004l
+Balance of Zigg before rebase: 26079500340162749410492 ETH
+[1m[31merror:[0m the following required arguments were not provided:
+  [32m<WHO>[0m
+
+[1m[4mUsage:[0m [1mcast balance[0m [1m--rpc-url[0m <URL> <WHO>
+
+For more information, try '[1m--help[0m'.
+Balance of sender before rebase: 
+Checking total supply before rebase...
+Total supply before rebase: 5.653256926390548384 ETH
+Calling rebase function...
+Checking total supply after rebase...
+Total supply after rebase: 5.653256926390548384 ETH
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h. ./rebase.sh[13D             [13D. ./rebase.sh[13D             [13Dcclear[?2004l
+[H[2J[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004hclear. ./rebase.sh[?2004l
+Balance of Zigg before rebase: 26079500340162749410492 ETH
+[1m[31merror:[0m the following required arguments were not provided:
+  [32m<WHO>[0m
+
+[1m[4mUsage:[0m [1mcast balance[0m [1m--rpc-url[0m <URL> <WHO>
+
+For more information, try '[1m--help[0m'.
+Balance of sender before rebase: 
+Checking total supply before rebase...
+^C[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h. ./rebase.sh[?2004l
+Balance of Zigg before rebase: 26079500340162749410492 ETH
+[1m[31merror:[0m the following required arguments were not provided:
+  [32m<WHO>[0m
+
+[1m[4mUsage:[0m [1mcast balance[0m [1m--rpc-url[0m <URL> <WHO>
+
+For more information, try '[1m--help[0m'.
+Balance of sender before rebase: 
+Checking total supply before rebase...
+Total supply before rebase: 5.653256926390548384 ETH
+Calling rebase function...
+Checking total supply after rebase...
+^C[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h. ./rebase.sh[?2004l
+hex_to_ether:1: number truncated after 17 digits: 26079500340162749410492
+Balance of Zigg before rebase: 6.951675474713388873 ETH
+[1m[31merror:[0m the following required arguments were not provided:
+  [32m<WHO>[0m
+
+[1m[4mUsage:[0m [1mcast balance[0m [1m--rpc-url[0m <URL> <WHO>
+
+For more information, try '[1m--help[0m'.
+Balance of sender before rebase: 
+Checking total supply before rebase...
+Total supply before rebase: 5.653256926390548384 ETH
+Calling rebase function...
+Checking total supply after rebase...
+^C[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h. ./rebase.sh[?2004l
+hex_to_ether:1: number truncated after 17 digits: 26079500340162749410492
+Balance of Zigg before rebase: 6951675474713388873 ETH
+[1m[31merror:[0m the following required arguments were not provided:
+  [32m<WHO>[0m
+
+[1m[4mUsage:[0m [1mcast balance[0m [1m--rpc-url[0m <URL> <WHO>
+
+For more information, try '[1m--help[0m'.
+Balance of sender before rebase: 
+Checking total supply before rebase...
+^C[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h. ./rebase.sh[13D             [13Dcclr ear[?2004l
+[H[2J[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004hclear. ./rebase.sh[?2004l
+Balance of Zigg before rebase: 26079.500340162749410492 ETH
+[1m[31merror:[0m the following required arguments were not provided:
+  [32m<WHO>[0m
+
+[1m[4mUsage:[0m [1mcast balance[0m [1m--rpc-url[0m <URL> <WHO>
+
+For more information, try '[1m--help[0m'.
+Balance of sender before rebase: 
+Checking total supply before rebase...
+Total supply before rebase: 5.653256926390548384 ETH
+Calling rebase function...
+Checking total supply after rebase...
+Total supply after rebase: 5.653256926390548384 ETH
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h . ./rebase.sh[?2004l
+Balance of Zigg before rebase: 26079.500340162749410492 ETH
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h. ./rebase.sh[?2004l
+Balance of Zigg: 26079.500340162749410492 ETH
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h. ./rebase.sh[?2004l
+Balance of Zigg: 26079.500340162749410492 ETH
+Checking total supply before rebase...
+Total supply before rebase: 0x0000000000000000000000000000000000000000000000014e746738e98677a0 ETH
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h. ./rebase.sh[?2004l
+Balance of Zigg: 26079.500340162749410492 ETH
+Checking total supply before rebase...
+
+Parse error: bad expression
+    <stdin>:1
+
+Total supply before rebase:  ETH
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h. ./rebase.sh[?2004l
+Balance of Zigg: 26079.500340162749410492 ETH
+Checking total supply before rebase...
+hex_to_ether:1: bad math expression: operator expected at `x000000000...'
+Total supply before rebase:  ETH
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h. ./rebase.sh[?2004l
+Balance of Zigg: 26079.500340162749410492 ETH
+Checking total supply before rebase...
+hex_to_ether:1: bad math expression: operator expected at `x000000000...'
+Total supply before rebase: 0x0000000000000000000000000000000000000000000000014e746738e98677a0 ETH
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h. ./rebase.sh[?2004l
+Balance of Zigg: 26079.500340162749410492 ETH
+Checking total supply before rebase...
+Total supply before rebase: 0x0000000000000000000000000000000000000000000000014e746738e98677a0 ETH
+hex_to_ether:1: bad math expression: operator expected at `x000000000...'
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004hcclear[?2004l
+[H[2J[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004hclear. ./rebase.sh[?2004l
+Balance of Zigg: 26079.500340162749410492 ETH
+Checking total supply before rebase...
+Total supply before rebase: 0x0000000000000000000000000000000000000000000000014e746738e98677a0 ETH
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h. ./rebase.sh[?2004l
+Balance of Zigg: 26079.500340162749410492 ETH
+Checking total supply before rebase...
+Total supply before rebase: 0x0000000000000000000000000000000000000000000000014e746738e98677a0 ETH
+Total supply before rebase: 5.653256926390548384 ETH
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h. ./rebase.sh[?2004l
+Balance of Zigg: 26078.500340162748611645 ETH
+Checking total supply before rebase...
+Total supply before rebase: 0x0000000000000000000000000000000000000000000000015c551dec90ea77a0 ETH
+Total supply before rebase: 6.6532569263905483 ETH
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h. ./rebase.sh[13D             [13D. ./rebase.sh[13D             [13D. ./rebase.sh[13D             [13D. ./rebase.sh[13D             [13D. ./rebase.sh[13D             [13D. ./rebase.sh[13D             [13D. ./rebase.sh[13D             [13D. ./rebase.sh[?2004l
+Balance of Zigg: 26078.500340162748611645 ETH
+Checking total supply before rebase...
+^[Total supply before rebase: 0x0000000000000000000000000000000000000000000000015c551dec90ea77a0 ETH
+Total supply before rebase: 6.653256926390548384 ETH
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h
+[K[K[A[31C. ./rebase.sh[1B[K[A[44C[?2004l[1BBalance of Zigg: 26078.500340162748611645 ETH
+Checking total supply before rebase...
+Total supply before rebase: 0x0000000000000000000000000000000000000000000000015c551dec90ea77a0 ETH
+Total supply before rebase: 6.653256926390548384 ETH
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h. ./rebase.sh[?2004l
+Balance of Zigg: 26078.500340162748611645 ETH
+Checking total supply before rebase...
+Total supply before rebase: 0x0000000000000000000000000000000000000000000000015c551dec90ea77a0 ETH
+
+Parse error: bad expression
+    <stdin>:1
+
+
+Parse error: bad token
+    <stdin>:1
+
+Total supply before rebase:  ETH
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h. ./rebase.sh[?2004l
+Balance of Zigg: 26078.500340162748611645 ETH
+Checking total supply before rebase...
+Total supply before rebase: 0x0000000000000000000000000000000000000000000000015c551dec90ea77a0 ETH
+Total supply before rebase: 25.100001000100100000 ETH
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h. ./rebase.sh[?2004l
+Balance of Zigg: 26078.500340162748611645 ETH
+Checking total supply before rebase...
+Total supply before rebase: 0x0000000000000000000000000000000000000000000000015c551dec90ea77a0 stHYPE
+Total supply before rebase: 25.100001000100100000 stHYPE
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h. ./rebase.sh[?2004l
+Balance of Zigg: 26078.500340162748611645 ETH
+Checking total supply before rebase...
+Total supply before rebase: 25.100001000100100000 stHYPE
+Calling rebase function...
+Error: 
+[31mserver returned an error response: error code 3: execution reverted: panic: arithmetic underflow or overflow (0x11), data: "0x4e487b710000000000000000000000000000000000000000000000000000000000000011"[0m
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h. ./rebase.sh[?2004l
+Balance of Zigg: 26078.500340162748611645 ETH
+Checking total supply before rebase...
+Total supply before rebase: 25.100001000100100000 stHYPE
+Calling rebase function...
+Error: 
+[31mserver returned an error response: error code 3: execution reverted: panic: arithmetic underflow or overflow (0x11), data: "0x4e487b710000000000000000000000000000000000000000000000000000000000000011"[0m
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h. ./rebase.sh[?2004l
+Balance of Zigg: 26078.500340162748611645 ETH
+Checking total supply before rebase...
+Total supply before rebase: 25.100001000100100000 stHYPE
+Calling rebase function...
+Error: 
+[31mserver returned an error response: error code 3: execution reverted: panic: arithmetic underflow or overflow (0x11), data: "0x4e487b710000000000000000000000000000000000000000000000000000000000000011"[0m
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h. ./rebase.sh[?2004l
+Balance of Zigg: 26078.500340162748611645 ETH
+Checking total supply before rebase...
+Total supply before rebase: 25.100001000100100000 stHYPE
+Calling rebase function...
+Error: 
+[31mserver returned an error response: error code 3: execution reverted: panic: arithmetic underflow or overflow (0x11), data: "0x4e487b710000000000000000000000000000000000000000000000000000000000000011"[0m
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h. ./rebase.sh[?2004l
+Balance of Zigg: 26078.500340162748611645 ETH
+Checking total supply before rebase...
+Total supply before rebase: 25.100001000100100000 stHYPE
+Calling rebase function...
+Error: 
+[31mserver returned an error response: error code 3: execution reverted: panic: arithmetic underflow or overflow (0x11), data: "0x4e487b710000000000000000000000000000000000000000000000000000000000000011"[0m
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                             [0m[27m[24m[Jtom@Toms-MacBook-Pro foundry % [K[?2004h
